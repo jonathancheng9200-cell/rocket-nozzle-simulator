@@ -24,33 +24,33 @@ The project was developed to apply compressible-flow and rocket-propulsion theor
 
 ### Area–Mach Relation
 
-\[
+$$
 \frac{A}{A^*}=\frac{1}{M}\left[\frac{2}{\gamma+1}\left(1+\frac{\gamma-1}{2}M^2\right)\right]^{\frac{\gamma+1}{2(\gamma-1)}}
-\]
+$$
 
 ### Rocket Thrust
 
-\[
+$$
 F=\dot{m}u_e+(P_e-P_a)A_e
-\]
+$$
 
 ### Specific Impulse
 
-\[
+$$
 I_{sp}=\frac{F}{\dot{m}g_0}
-\]
+$$
 
 ### Thrust Coefficient
 
-\[
+$$
 C_F=\frac{F}{P_cA_t}
-\]
+$$
 
 ### Characteristic Velocity
 
-\[
+$$
 c^*=\frac{P_cA_t}{\dot{m}}
-\]
+$$
 
 ## Model Assumptions
 
